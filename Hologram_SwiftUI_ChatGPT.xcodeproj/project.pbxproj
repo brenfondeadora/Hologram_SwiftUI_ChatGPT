@@ -13,6 +13,7 @@
 		23CAB21929EB1015007D88DF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23CAB21829EB1015007D88DF /* Preview Assets.xcassets */; };
 		23CAB22229EB1782007D88DF /* HologramShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23CAB22129EB1782007D88DF /* HologramShape.swift */; };
 		23CAB22429EB19AE007D88DF /* HologramPatternView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23CAB22329EB19AE007D88DF /* HologramPatternView.swift */; };
+		23CAB22629EB1DBA007D88DF /* SunflowerShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23CAB22529EB1DBA007D88DF /* SunflowerShape.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		23CAB22029EB116D007D88DF /* .gitignore.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = .gitignore.md; sourceTree = "<group>"; };
 		23CAB22129EB1782007D88DF /* HologramShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HologramShape.swift; sourceTree = "<group>"; };
 		23CAB22329EB19AE007D88DF /* HologramPatternView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HologramPatternView.swift; sourceTree = "<group>"; };
+		23CAB22529EB1DBA007D88DF /* SunflowerShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SunflowerShape.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				23CAB21729EB1015007D88DF /* Preview Content */,
 				23CAB22129EB1782007D88DF /* HologramShape.swift */,
 				23CAB22329EB19AE007D88DF /* HologramPatternView.swift */,
+				23CAB22529EB1DBA007D88DF /* SunflowerShape.swift */,
 			);
 			path = Hologram_SwiftUI_ChatGPT;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23CAB22629EB1DBA007D88DF /* SunflowerShape.swift in Sources */,
 				23CAB22229EB1782007D88DF /* HologramShape.swift in Sources */,
 				23CAB21429EB1011007D88DF /* ContentView.swift in Sources */,
 				23CAB22429EB19AE007D88DF /* HologramPatternView.swift in Sources */,

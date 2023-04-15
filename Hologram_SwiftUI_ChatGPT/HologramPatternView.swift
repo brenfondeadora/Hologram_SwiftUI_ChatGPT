@@ -14,7 +14,7 @@ struct HologramPatternView: View {
         GeometryReader { geometry in
             ZStack {
                 // Add the converted SwiftUI Shape here
-                HologramShape()
+                SunflowerShape()
                     .stroke(lineWidth: 1)
                     .foregroundColor(isAnimating ? Color.blue : Color.black)
                     .scaleEffect(isAnimating ? 1.2 : 1.0)
