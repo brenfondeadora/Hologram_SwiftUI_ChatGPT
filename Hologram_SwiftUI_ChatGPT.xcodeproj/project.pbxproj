@@ -19,6 +19,8 @@
 		23CAB21329EB1011007D88DF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		23CAB21529EB1015007D88DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		23CAB21829EB1015007D88DF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		23CAB21F29EB10A4007D88DF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		23CAB22029EB116D007D88DF /* .gitignore.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = .gitignore.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +37,8 @@
 		23CAB20529EB1011007D88DF = {
 			isa = PBXGroup;
 			children = (
+				23CAB22029EB116D007D88DF /* .gitignore.md */,
+				23CAB21F29EB10A4007D88DF /* README.md */,
 				23CAB21029EB1011007D88DF /* Hologram_SwiftUI_ChatGPT */,
 				23CAB20F29EB1011007D88DF /* Products */,
 			);
