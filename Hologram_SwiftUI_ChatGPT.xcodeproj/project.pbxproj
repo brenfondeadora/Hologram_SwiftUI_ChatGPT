@@ -11,6 +11,8 @@
 		23CAB21429EB1011007D88DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23CAB21329EB1011007D88DF /* ContentView.swift */; };
 		23CAB21629EB1015007D88DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23CAB21529EB1015007D88DF /* Assets.xcassets */; };
 		23CAB21929EB1015007D88DF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 23CAB21829EB1015007D88DF /* Preview Assets.xcassets */; };
+		23CAB22229EB1782007D88DF /* HologramShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23CAB22129EB1782007D88DF /* HologramShape.swift */; };
+		23CAB22429EB19AE007D88DF /* HologramPatternView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23CAB22329EB19AE007D88DF /* HologramPatternView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		23CAB21829EB1015007D88DF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		23CAB21F29EB10A4007D88DF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		23CAB22029EB116D007D88DF /* .gitignore.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = .gitignore.md; sourceTree = "<group>"; };
+		23CAB22129EB1782007D88DF /* HologramShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HologramShape.swift; sourceTree = "<group>"; };
+		23CAB22329EB19AE007D88DF /* HologramPatternView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HologramPatternView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				23CAB21329EB1011007D88DF /* ContentView.swift */,
 				23CAB21529EB1015007D88DF /* Assets.xcassets */,
 				23CAB21729EB1015007D88DF /* Preview Content */,
+				23CAB22129EB1782007D88DF /* HologramShape.swift */,
+				23CAB22329EB19AE007D88DF /* HologramPatternView.swift */,
 			);
 			path = Hologram_SwiftUI_ChatGPT;
 			sourceTree = "<group>";
@@ -141,7 +147,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				23CAB22229EB1782007D88DF /* HologramShape.swift in Sources */,
 				23CAB21429EB1011007D88DF /* ContentView.swift in Sources */,
+				23CAB22429EB19AE007D88DF /* HologramPatternView.swift in Sources */,
 				23CAB21229EB1011007D88DF /* Hologram_SwiftUI_ChatGPTApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
