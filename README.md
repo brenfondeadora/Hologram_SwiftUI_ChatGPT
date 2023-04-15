@@ -5,7 +5,7 @@ An app with animations in SwiftUI with the help of ChatGPT4 [SwiftUI with ChatGP
 
 <p align="center">
 <a href="#">
-
+<img src="images/hologram.gif" align="center">
 <br><br>
 </a>  
 <br><br>
